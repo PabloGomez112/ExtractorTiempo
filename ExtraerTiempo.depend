@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1703558244 source:/home/pablo/Desktop/Universidad/ProyectosEspeciales/ExtraerTiempo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+
